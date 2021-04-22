@@ -1,0 +1,9 @@
+{
+  "searchPage":
+  {
+    "googleLogo": ["className","lnXdpd"],
+    "searchInput": ["name","q"],
+    "searchButton": ["xpath","//*[@aria-label='Google Search']"],
+    "result": ["className","iUh30 Zu0yb tjvcx"]
+  }
+}

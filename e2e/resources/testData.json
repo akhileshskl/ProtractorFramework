@@ -1,0 +1,12 @@
+{
+  "search": {
+    "baseUrl": "https://www.google.co.in"
+  },
+  "keywords": {
+    "keyword1": "Akhilesh Shukla",
+    "keyword2": "hello selenium"
+  },
+  "results": {
+    "result1": "hello+selenium"
+  }
+}

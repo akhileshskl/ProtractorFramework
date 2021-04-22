@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Google Search Tests execution onundefined" timestamp="2021-04-22T19:01:15" hostname="localhost" time="13.799" errors="0" tests="4" skipped="0" failures="0">
+  <testcase classname="Google Search Tests execution onundefined" name="Open Google Search page" time="2.947">
+  </testcase>
+  <testcase classname="Google Search Tests execution onundefined" name="search Akhilesh Shukla QA" time="4.732">
+  </testcase>
+  <testcase classname="Google Search Tests execution onundefined" name="search Hello Selenium" time="5.848">
+  </testcase>
+  <testcase classname="Google Search Tests execution onundefined" name="Open Hello Selenium Result Page" time="0.264">
+  </testcase>
+ </testsuite>
+</testsuites>
