@@ -1,15 +1,14 @@
 # Protractor Test Framework
-Protractor Test Framework to perform basic angular testing using protrator and protractor-html-reproter-2<br>
-**supports till protractor 5.4.2, work in progress for new version protractor**
+Protractor Test Framework to perform basic angular testing using protrator and protractor-html-reproter-2
 
 ------------------------------------
 Prequisites
 ------------------------------------
 
 1. NodeJS should installed and setup.
-2. Protractor 5.4.2 should be installed and setup.
+2. Protractor 5.4.4 should be installed and setup.
 ```bash
-npm install -g protractor@5.4.2
+npm install -g protractor@5.4.4
 ```
 3. Browser should be installed.
 4. Internet Connection should be available.
